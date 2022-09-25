@@ -1,7 +1,7 @@
 //Created by Binslev | Credit to AlexYeahNot
 //game version 1.5.0
 //created on 11-09-2022
-//two pointers in the hopes that it works more better
+//two pointers for better reliability
 
 state("FarCry6")
 {
