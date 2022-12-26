@@ -1,7 +1,7 @@
 //Created by Binslev | Credit to AlexYeahNot
 //game version 1.6.0
 //created on 06-12-2022
-//two pointers in the hopes that it works more better
+//two pointers for redundancy
 
 state("FarCry6")
 {
