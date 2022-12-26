@@ -1,12 +1,12 @@
 //Created by Binslev | Credit to AlexYeahNot
-//game version 1.5.0
-//created on 11-09-2022
-//two pointers for better reliability
+//game version 1.6.0
+//created on 06-12-2022
+//two pointers for redundancy
 
 state("FarCry6")
 {
-	int loading : "FC_m64d3d12.dll", 0x07142850, 0xD0, 0x6D8, 0x2F8;
-	int loading1 : "FC_m64d3d12.dll", 0x0680DB30, 0x20, 0x0, 0x68;
+	int loading : 	"FC_m64d3d12.dll", 0x0717EE38, 0x28, 0xF0, 0x0, 0x68;
+	int loading1 : 	"FC_m64d3d12.dll", 0x06B4FB98, 0x20, 0x0, 0x68;
 }
 
 isLoading
